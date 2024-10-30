@@ -3,8 +3,7 @@
 @2024 Calin Mihai-Catalin  
 --------------------------------------------------------------------------------  
 
-The primary purpose of this weather application is to offer a straightforward solution for accessing weather data across any location, designed for easy deployment and local hosting. However, given the ongoing updates to third-party weather APIs, the application may occasionally need adjustments to stay compatible.  
-Weather API providers frequently update their services and data structures, which can impact the functionality of the app over time.
+The primary purpose of this weather application is to offer a straightforward solution for accessing weather data across any location, designed for easy deployment and local hosting. However, given the ongoing updates to third-party weather APIs, the application may occasionally need adjustments to stay compatible. Weather API providers frequently update their services and data structures, which can impact the functionality of the app over time.
 
 ### Instructions
 Enter the city name you want to check the weather for, then simply press the button to retrieve the current weather conditions. It’s that easy!
